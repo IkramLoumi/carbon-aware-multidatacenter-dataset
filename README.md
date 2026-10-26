@@ -47,10 +47,4 @@ One row per data-center site (72 rows, no missing values in the required columns
 - PUE for most operators is a fleet average, not a site measurement.
 - The data combine different reference years (workload 2019; infrastructure 2022–2024); no temporal interpolation is applied. The dataset is a static, mixed-period benchmark, not an operational snapshot.
 
-## Reproduction
-
-```bash
-pip install -r requirements.txt
-python scripts/<script_name>.py   # TODO
-```
 
