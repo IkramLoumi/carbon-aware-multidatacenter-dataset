@@ -18,7 +18,7 @@ carbon-aware-multidatacenter-dataset/
 
 ## What is NOT included
 
-The **Google Cluster Trace (May 2019, ~50 GB)** is not redistributed here. Please obtain it from its official source: [https://github.com/google/cluster-data?utm_source=chatgpt.com] and follow its own terms of use.
+The **Google Cluster Trace (May 2019, ~50 GB)** is not redistributed here. Please obtain it from its official source: [https://github.com/google/cluster-data] and follow its own terms of use.
 
 ## Dataset description
 
