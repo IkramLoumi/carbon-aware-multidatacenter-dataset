@@ -1,0 +1,73 @@
+dc_id,dc_name,operator,country,latitude,longitude,capacity_mw,pue,carbon_intensity,renewable_pct,electricity_cost
+telstra_2d6d0fe3,Telstra,Telstra,Australia,-32.0653605,115.8014135,20.0,1.6,556.0,32.0,0.099
+atw_5d4b0c6b,ATW,ATW,Hungary,47.5179951,19.055096,0.575,1.45,234.0,56.0,0.128
+_18f05aed,スーパーコンピュータ「富岳」,株式会社アット東京,Japan,34.6534349,135.2204031,35.0,1.28,476.0,23.0,0.161
+global_switch_amsterdam_602962ab,Global Switch Amsterdam,Global Switch,Netherlands,52.34401,4.8288651,49.0,1.4,370.0,45.0,0.155
+digital_realty_05417a27,Digital Realty AMS17,Digital Realty,Netherlands,52.3337319,4.9188641,27.0,1.38,370.0,45.0,0.155
+datacenter_gemert_1ef1a1f0,Datacenter Gemert,Cellnex,Netherlands,51.5263372,5.7041285,0.12,1.2,370.0,45.0,0.155
+northc_nurnberg_1_4beb9a67,NorthC Nürnberg 1,NorthC,Germany,49.3896407,11.1766281,6.0,1.35,13.0,98.0,0.073
+equinix_am1_b3e2f23f,Equinix AM1,Equinix,Netherlands,52.2997754,4.9425946,9.0,1.39,125.0,87.0,0.102
+equinix_data_center___st_589b2eec,Equinix Data Center - ST3,Equinix,Chile,-33.4441857,-70.6561553,7.5,1.39,302.0,52.0,0.131
+ntt_va11_data_center_b9bd3e53,NTT VA11 Data Center,NTT,United States,38.7999731,-77.6099636,96.0,1.4,368.0,22.0,0.077
+equinix_genoa_gn1_ad0f1d58,Equinix Genoa GN1,Equinix,Italy,44.426868,8.9502082,1.1,1.39,371.0,42.0,0.172
+equinix_helsinki_he3_81c3b164,Equinix Helsinki HE3,Equinix,Finland,60.1849597,24.9684122,3.6,1.39,125.0,87.0,0.102
+equinix_data_center_he5_934b0bb3,Equinix Data Center HE5,Equinix,Finland,60.2213724,24.985589,2.4,1.39,125.0,87.0,0.102
+equinix_db4_1b5692c6,Equinix DB4,Equinix,Ireland,53.4119853,-6.3514762,10.0,1.39,352.0,45.0,0.169
+equinix_ld3_b690aebb,Equinix LD3,Equinix,United Kingdom,51.528887,-0.2778211,3.0,1.39,233.0,48.0,0.189
+verne_global_london_data_20a19d47,Verne Global London Data Centre,Verne Global,United Kingdom,51.5235766,-0.1008144,9.5,1.08,233.0,48.0,0.189
+amazon_iad11_7c5e259b,Amazon IAD11,Amazon Web Services,United States,38.7904948,-77.5411095,223.5,1.15,368.0,22.0,0.077
+amazon_dub_2_58087b4f,Amazon DUB-2,Amazon Web Services,Ireland,53.2915334,-6.4163446,80.0,1.15,352.0,45.0,0.169
+colt_paris_3_97d9bee3,Colt Paris 3,Colt,France,48.6747455,2.1971672,32.0,1.5,56.0,97.0,0.118
+datacenter_colt_58ac266c,Datacenter Colt paris south west,Colt,France,48.8158501,2.3028633,24.0,1.5,56.0,97.0,0.118
+colt_london_north_data_c_efb186d6,Colt London North Data Centre,Colt,United Kingdom,51.799948,-0.1835561,35.0,1.5,233.0,48.0,0.189
+equinix_fr8_1_84dcc309,Equinix FR8.1,Equinix,Germany,50.098523,8.5859368,13.5,1.39,13.0,98.0,0.073
+verizon___bloomington_ne_c5b411f1,Verizon - Bloomington Network,Verizon,United States,44.8072109,-93.375385,7.655,1.5,368.0,22.0,0.077
+equinix_fr5_4b174cff,Equinix FR5,Equinix,Germany,50.0988007,8.6321031,3.0,1.39,13.0,98.0,0.073
+equinix_du1_b8c32210,Equinix DU1,Equinix,Germany,51.2198442,6.8069689,4.0,1.39,13.0,98.0,0.073
+flexential_phoenix___dee_145b67a3,Flexential Phoenix - Deer Valley,Flexential,United States,33.6846775,-112.0983398,5.02,1.53,158.0,79.0,0.099
+joule_house_5e5a4156,Joule House,Equinix,United Kingdom,53.4680158,-2.2934202,3.0,1.39,233.0,48.0,0.189
+switch_las_vegas_7_066777de,Switch Las Vegas 7,Switch,United States,36.0599191,-115.210197,315.0,1.23,158.0,79.0,0.099
+amazon_iad_55_4096d67d,Amazon IAD-55,Amazon Web Services,United States,38.815021,-77.64868,50.0,1.15,368.0,22.0,0.077
+google_data_center_the_d_97ee36c7,Google Data Center The Dalles Oregon,Google,United States,45.6320147,-121.2012021,119.0,1.1,368.0,22.0,0.077
+magyar_telekom_cloud___d_7d3d02e8,Magyar Telekom Cloud & DataCenter,Telekom Rendszerintegráció Zrt.,Hungary,47.4936045,19.1036268,22.0,1.7,234.0,56.0,0.128
+cogent_data_center_437fc5fe,Cogent Data Center,"Cogent Communications, Inc.",United States,33.4002195,-112.0478786,2.79,1.55,158.0,79.0,0.099
+flexential_allentown_dat_7b87de83,Dallas - Downtown Dallas data center,Flexential,United States,40.6356953,-75.4575733,6.6,1.53,368.0,22.0,0.077
+equinix_ashburn_dc1_bb08f0be,Equinix Ashburn DC1,Equinix,United States,39.0155577,-77.4603281,150.0,1.39,158.0,79.0,0.099
+ntt_data_quincy_16220250,NTT Data Quincy,NTT,United States,47.2435798,-119.8657481,42.0,1.4,368.0,22.0,0.077
+six_degrees_data_centre_8ed4cba77,Six Degrees Data Centre Interxion LON3,Six Degrees,United Kingdom,51.4935168,0.0300078,2.0,1.4,233.0,48.0,0.189
+six_degrees_data_centre_8ed4cba4,Six Degrees Data Centre,Six Degrees,United Kingdom,52.4785,-1.87724,3.0,1.3,233.0,48.0,0.189
+google___thornton_c38c10e6,Google - Thornton,Google,United States,39.922465,-104.9834252,2.461,1.09,368.0,22.0,0.077
+ntt_slough_12de7717,NTT Slough,NTT,United Kingdom,51.5170188,-0.6160237,1.8,1.4,233.0,48.0,0.189
+equinix_cu2_52450a0c,Equinix CU2,Equinix,United States,38.4548439,-77.9781318,11.0,1.39,158.0,79.0,0.099
+amazon_aws__hilliard_dat_07a13782,Amazon AWS: Hilliard Data Center,Amazon Web Services us-east-2 datacenter,United States,40.0598657,-83.1342839,73.0,1.15,368.0,22.0,0.077
+equinix_ty3_bdfd161b,Equinix TY3,Equinix,Japan,35.6567016,139.8033964,4.0,1.39,476.0,23.0,0.161
+amazon_web_services__cmh_ffeef5b2,Amazon Web Services  CMH50,Amazon Web Services,United States,40.0946297,-82.7513394,116.625,1.15,368.0,22.0,0.077
+amazon_iad80_afa16d86,Amazon IAD80,Amazon Web Services,United States,39.0271087,-77.4528289,405.0,1.15,368.0,22.0,0.077
+aws_asia_pacific__sydney_1b49f343,AWS Asia Pacific (Sydney) Region Data Centre,Amazon Web Services,Australia,-34.0371555,150.7681176,40.0,1.15,556.0,32.0,0.099
+equinix_stockholm_sk2_0beb02b4,Equinix Stockholm SK2,Equinix,Sweden,59.263483,18.1054187,8.0,1.39,13.0,98.0,0.073
+virtus_london7_ac65351a,Virtus London7,Virtus,United Kingdom,51.5108817,-0.4566535,28.0,1.08,233.0,48.0,0.189
+colt_london_west_c0477111,Colt London West,Colt,United Kingdom,51.5319396,-0.2576058,41.0,1.5,233.0,48.0,0.189
+oregon_state_data_center_556929b4,Oregon State Data Center,State of Oregon,United States,44.9265658,-123.001847,441.0,1.1,368.0,22.0,0.077
+parklands_526b4b2f,Parklands,NTT,South Africa,-26.1466875,28.0368388,3.5,1.4,815.0,12.0,0.063
+ntt_london_1_aa0fc35d,NTT London 1,NTT,United Kingdom,51.547372,0.1758028,32.0,1.4,233.0,48.0,0.189
+google_nby_1_67d184d8,Google NBY-1,Google,United States,40.0611606,-82.7643286,25.6,1.2,368.0,22.0,0.077
+tennessee_south_data_cen_79d5d877,Tennessee South Data Center,State of Tennessee,United States,35.9934295,-86.4958261,408.0,1.09,368.0,22.0,0.077
+google_datacenter_eemsha_d2b37047,Google Datacenter Eemshaven,Google,Netherlands,53.4239815,6.8627735,17.5,1.07,370.0,45.0,0.155
+switch_las_vegas_4_6b13e3c3,Switch Las Vegas 4,Switch,United States,36.143646,-115.076779,495.0,1.23,368.0,22.0,0.077
+amazon_data_services_spa_f1537ea0,Amazon Data Services Spain S.L.U.,Amazon Web Services,Spain,42.1032383,-0.4520346,108.0,1.15,213.0,58.0,0.132
+colt_19e69d7f,Colt 京阪奈データセンター,Colt data centre services,Japan,34.7466297,135.7646514,70.0,1.5,476.0,23.0,0.161
+google__arcola_2_4ac770bb,Google: Arcola 2,Google,United States,38.9418116,-77.5274514,380.5,1.09,368.0,22.0,0.077
+amazon_aws_data_center_dc52438f,Amazon AWS Data Center,Amazon,United States,41.69023,-86.4686889,2250.0,1.15,368.0,22.0,0.077
+equinix_dc14_1d185fd9,Equinix DC14,Equinix,United States,38.8033786,-77.5105458,14.0,1.39,368.0,22.0,0.077
+verizon_north_las_vegas_3350a970,Verizon North Las Vegas,Verizon,United States,36.2218945,-115.1470466,100.0,1.5,368.0,22.0,0.077
+switch_datacenters_ams4_a19bb9af,Switch Datacenters AMS4,Switch Datacenters,Netherlands,52.3315093,4.9735975,18.0,1.23,370.0,45.0,0.155
+aws_didcot_data_centre_79ce6bb5,AWS Didcot Data Centre,Amazon Web Services,United Kingdom,51.6173524,-1.2615655,1440.0,1.15,233.0,48.0,0.189
+google_lockbourne__oh_0c2613cc,"Google Lockbourne, OH",Google,United States,39.8484523,-82.9963927,27.0,1.09,368.0,22.0,0.077
+ntt_randview_6d49bbba,NTT Randview,NTT,South Africa,-26.0901264,27.9836554,12.0,1.4,815.0,12.0,0.063
+flexential_charlotte___n_dbf5e93a,Flexential Charlotte - North,Flexential,United States,35.329773,-80.7657588,3.3,1.53,158.0,79.0,0.099
+amazon_aws_phl_aeec751a,Amazon AWS PHL,Amazon Web Services,United States,41.0839907,-76.1433749,96.0,1.66,368.0,22.0,0.077
+amazon_iad_166_53704816,Amazon IAD-166,Amazon Web Services,United States,38.9211238,-77.4265432,250.0,1.15,368.0,22.0,0.077
+amazon_aws_queretaro_6c4e294f,Amazon AWS Querétaro,Amazon,Mexico,20.5860169,-100.1991228,100.0,1.15,441.0,28.0,0.074
+google__lok_yang_1_9b360ec7,Google: Lok Yang 1,Google,Singapore,1.3237833,103.6951122,80.0,1.12,408.0,3.0,0.172
+switch__the_rock_36e45b0a,Switch: The Rock,Switch,United States,30.4880189,-97.6725256,125.0,1.23,368.0,22.0,0.077
+sg6_03494f11,SG6,Equinix,Singapore,1.325843,103.7131739,20.0,1.39,408.0,3.0,0.172
